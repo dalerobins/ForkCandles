@@ -12,3 +12,7 @@ The premium system: a predominantly static warm white tree with sparse individua
 - Calibrate normal current to match passive emitters; reserve current headroom for bright twinkles.
 
 See [driver concept](Analogue-Driver.svg) and [communications and topper](Communications.md). Status: untested architecture.
+
+## Shared development
+
+Optional local connectivity: [MakeItMatter](../MakeItMatter/). Physical controls remain independent.

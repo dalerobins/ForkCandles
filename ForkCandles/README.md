@@ -30,3 +30,7 @@ These are leads from the discussion; verify current datasheets, availability and
 - Record teardown photographs, schematics, waveforms and measured results.
 
 No assumption is made that donor boards are flicker free or suitable for direct connection. All concepts are untested.
+
+## Shared development
+
+Analogue DC master dimming is fundamental. Characterise the donor controller across the full dimming range; preserve DC background illumination and measure unwanted PWM on donor nodes separately.

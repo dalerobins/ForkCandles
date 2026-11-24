@@ -1,15 +1,12 @@
-# ForkHandles — development notebook
+# ForkCandles — development notebook
 
-Four Candles meets The Stars at Night.
+Four projects, four candles, one shared connectivity extension.
 
-Four candles. Two wires. One night sky.
+- [ForkCandles](ForkCandles/): salvaged tealight controllers.
+- [StarsAtNight](StarsAtNight/): autonomous inverse twinkle.
+- [CrossedLines](CrossedLines/): replacement bipolar string controllers.
+- [Mastermind](Mastermind/): coordinated analogue lighting and topper.
+- [MakeItMatter](MakeItMatter/): optional local connectivity for CrossedLines and Mastermind.
+- [Shared measurement methods](docs/Measurement-Methods.md).
 
-These are preliminary, untested engineering concepts, not production schematics. The existing root README and licence are deliberately not replaced. All work remains private pending decisions on publication and licensing.
-
-- [ForkCandles](ForkCandles/README.md): tealight liberation, reverse engineering and integration of salvaged controllers.
-- [Stars at Night](StarsAtNight/README.md): autonomous inverse twinkle.
-- [Mastermind](Mastermind/README.md): coordinated analogue lighting and topper.
-
-Three projects, one shared optical testing department. ForkCandles explores salvaged hardware; Stars at Night develops bespoke autonomous controllers; Mastermind develops coordinated addressable lighting.
-
-Nature does not run an eight function lighting controller.
+All designs are preliminary and untested. See [main README](README.md).
